@@ -12,10 +12,18 @@ Email: ehmatthes@gmail.com
 
 Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
 
+---------------------
+
 Python 速成课程-第二版
+===
 
 基于项目的编程实践入门
+---
 
-这是 Python 速成课程(第二版)的资源集，这是 Eric Matthes 的《 No 淀粉出版社》中的一本编程入门书。点击这里获得这些在线资源的更干净的版本。
+这是[Python 速成课程(第二版)](http://www.nostarch.com/pythoncrashcourse/)的资源集，这是埃里克·马特斯在[No Starch Press 出版社](http://www.nostarch.com)中出版的一本编程入门书。点击这里获得[更纯净版本](https://ehmatthes.github.io/pcc_2e/)的在线资源。
 
-如果你有任何关于 Python 速成班的问题，请随时联系我们:
+如果你有任何关于Python速成课的问题，请随时联系我们:
+
+邮箱: ehmatthes@gmail.com
+
+推特: [@ehmatthes](http://twitter.com/ehmatthes/)
